@@ -1,6 +1,6 @@
 # Hello there! I'm Dario De Maio 👋
 
-I'm a passionate software developer with a strong background in various programming languages, web development technologies, and machine learning frameworks. I love to build, innovate, and learn new technologies that push the boundaries of what software can achieve.
+I'm a passionate software developer with a great background in various programming languages, web development technologies, and machine learning frameworks. I love to build, innovate, and learn new technologies that push the boundaries of what software can achieve.
 
 ## 🛠️ Technical Skills and Competencies
 
